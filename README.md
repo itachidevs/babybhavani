@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babybhavani
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in Mern stack development.
 - 🌱 I’m currently learning Mern stack development
 - 💞️ I’m looking to collaborate on website designing
 - Contact-babybhavani2002@gmail.com
