@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **babybhavani2002@gmail.com**
 
-- ⚡ Fun fact **Iam Love Anime.**
+- ⚡ Fun fact **I Love Anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
