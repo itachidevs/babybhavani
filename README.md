@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Baby Bhavani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **JavaScript Project**
+- 🔭 I’m currently working on [Frontend challenges](https://babybhavani.github.io/FourCardFeature/)
 
 - 🌱 I’m currently learning **React JS and Node Js**
+
+- 👯 I’m looking to collaborate on **Frontend designs and developments**
 
 - 💬 Ask me about **JavaScript,Python**
 
 - 📫 How to reach me **babybhavani2002@gmail.com**
 
+- ⚡ Fun fact **Iam Love Anime.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/crt066-baby-bhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/crt066-baby-bhavani" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/babybhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/babybhavani" height="30" width="40" /></a>
+<a href="https://instagram.com/web__codes___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web__codes___" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/babybhavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="babybhavani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@babybhavani2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@babybhavani2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/babybhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babybhavani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
