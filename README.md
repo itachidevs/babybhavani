@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I Love Anime.**
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@babybhavani/30-nites-of-code)  
+  ![@babybhavani #30NitesOfCode](https://www.codedex.io/api/petStatus?user=babybhavani)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/crt066-baby-bhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/crt066-baby-bhavani" height="30" width="40" /></a>
