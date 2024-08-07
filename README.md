@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babybhavani" alt="babybhavani" /></a> </p>
 
-- 🔭 I’m currently working on Money Manager App.
+- 🔭 I’m currently working on [Emoji Game](https://github.com/babybhavani/Emoji-Game.git).
 
 - 🌱 I’m currently learning **Node.JS**
 
